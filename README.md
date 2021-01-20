@@ -60,10 +60,14 @@ Exemplo:
 	
 ## Como testar a solução?
 
+### TL;DR
+Caso já conheça como funciona o Swagger, ignore as demais etapas. 😀✔
+
+
 1. O projeto Web Api ja esta definido como projeto principal da solução, desta forma, você só precisa clonar esse repositório e rodar o projeto na sua IDE .NET favorita(que suporte as tecnologias descritas no início deste documento).
 
 3. O projeto esta utilizando "Swashbuckle" para gerar uma documentação nos padroes OpenAPI e para que seja oferecida uma UI interativa utilizando Swagger(atualmente essa definição é um padrão em projetos .NET 5).
 
 5. Após a execução da solução, selecione o método que deseja testar, clique no respectivo botao **[Try it out]**, informe uma *data* para o payload presente no campo **"Request body"** e em seguida acione o botao **[Execute]**. A resposta do "request" aparecerá logo abaixo, no campo **"Response body"**.
 
-![](name-of-giphy.gif)
+![](how-to-swagger.gif)
