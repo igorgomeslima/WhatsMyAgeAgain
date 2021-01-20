@@ -6,7 +6,7 @@ Esse projeto foi criado para resolver o desafio proposto nesse [repositorio](htt
 * ASP.NET Core 5
 * OpenAPI
 
-## Descrição da Implementação
+## Descrição da Solução
 Foi desenvolvida uma WebApi que possui **2 métodos***. Ambos recebem como parametro uma data(data de nascimento) para que seja realizado o calculo de idade conforme solicitado no desafio.
 
 ### Observações
