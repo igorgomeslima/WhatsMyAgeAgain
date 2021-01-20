@@ -61,9 +61,9 @@ Exemplo:
 ## Como testar a solução?
 
 ### TL;DR
-Caso já conheça como funciona o Swagger, ignore as demais etapas. 😀✔
+Caso já conheça como funciona o Swagger, ignore os demais passos. 😀✔
 
-
+### Steps
 1. O projeto Web Api ja esta definido como projeto principal da solução, desta forma, você só precisa clonar esse repositório e rodar o projeto na sua IDE .NET favorita(que suporte as tecnologias descritas no início deste documento).
 
 3. O projeto esta utilizando "Swashbuckle" para gerar uma documentação nos padroes OpenAPI e para que seja oferecida uma UI interativa utilizando Swagger(atualmente essa definição é um padrão em projetos .NET 5).
