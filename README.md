@@ -6,7 +6,7 @@ Esse projeto foi criado para resolver o desafio proposto nesse [repositorio](htt
 * ASP.NET Core 5
 * OpenAPI
 
-##Descrição da Implementação
+## Descrição da Implementação
 Foi desenvolvida uma WebApi que possui **2 métodos***. Ambos recebem como parametro uma data(data de nascimento) para que seja realizado o calculo de idade conforme solicitado no desafio.
 
 ### Observações
@@ -70,4 +70,4 @@ Caso já conheça como funciona o Swagger, ignore as demais etapas. 😀✔
 
 5. Após a execução da solução, selecione o método que deseja testar, clique no respectivo botao **[Try it out]**, informe uma *data* para o payload presente no campo **"Request body"** e em seguida acione o botao **[Execute]**. A resposta do "request" aparecerá logo abaixo, no campo **"Response body"**.
 
-![](how-to-swagger.gif)
+![](https://i.imgur.com/IyLE3Z7.gif)
