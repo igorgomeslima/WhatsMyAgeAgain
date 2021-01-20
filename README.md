@@ -1,4 +1,4 @@
-Esse projeto foi criado para resolver o desafio proposto nesse [repositorio](https://github.com/rodrigodos/IngenicoLAR "repositorio").
+Esse projeto foi criado para resolver o desafio proposto nesse [repositório](https://github.com/rodrigodos/IngenicoLAR "repositorio").
 
 
 ## Tecnologias
